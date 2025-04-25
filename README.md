@@ -1,14 +1,14 @@
-# Denis Firmansyah
-# 1227050034
+# Denis Firmansyah - 1227050034
+---
 ## UTS Praktikun Pembelajaran Mesin - D
 ## Klasifikasi Kredit Komputer
-
-## Tools & Library
+---
+### Tools & Library
 - python 3.x
 - pandas
 - scikit-learn
 
-## Tahapan
+### Tahapan
 1. Mengimport libraray dari pandas dan sklearn
 2. Meload dataset 'dataset_buys_comp.csv'
 3. Memisahkan fitur x sebagai variabel independen, dan y sebagai variabel yang ingin diprediksi
